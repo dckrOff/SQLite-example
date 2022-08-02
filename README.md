@@ -1,3 +1,3 @@
-SQLite + Android - Complete Tutorial
+SQLite + Android
 
-Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.
+Note: This project is not mine, this code was written by <a href="https://github.com/stevdza-san/SQLite_Android-Complete_Tutorial">Stevdza-San</a>
